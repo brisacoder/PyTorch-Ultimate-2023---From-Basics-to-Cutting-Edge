@@ -1,0 +1,16 @@
+[project]
+name = "pytorch-ultimate-2024"
+version = "0.1.0"
+description = "PyTorch Ultimate 2024 - From Basics to Cutting-Edge, Published by Packt Publishing"
+requires-python = ">=3.10"
+dependencies = [
+    "graphviz",
+    "ipykernel",
+    "kaleido",
+    "psutil",
+    "requests",
+    "seaborn",
+    "torch>=2.10.0",
+    "torchmetrics",
+    "torchvision",
+]
